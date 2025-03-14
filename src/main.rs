@@ -2,7 +2,7 @@ use std::fs::read;
 use clap::Parser;
 
 /// hdump
-/// env!("CARGO_PKG_NAME") by Abhinav Gunwant (github.com/abhinavgunwant)
+/// v0.1.0 by Abhinav Gunwant (github.com/abhinavgunwant)
 ///
 /// Dumps a binary file in the hexadecimal representation.
 #[derive(Parser, Debug)]
